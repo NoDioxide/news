@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "image": "/images/logo192.png",
+      "alt": "Новость 1",
+      "title": "Lorem20",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores veritatis enim adipisci vitae assumenda! Consectetur aut quae asperiores odit. Praesentium?",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "image": "/images/logo512.png",
+      "alt": "Новость 2",
+      "title": "Lorem30",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem expedita dolores neque eos nulla excepturi veniam numquam a delectus doloremque corrupti aliquid tempore, magni sunt! Aut dolorum officiis assumenda quos?",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "image": "/images/logo192.png",
+      "alt": "Новость 3",
+      "title": "Lorem40",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam nemo delectus cupiditate, unde accusamus iure ratione aspernatur consequatur repudiandae maiores. Accusamus ut harum quasi suscipit quam quidem qui nostrum recusandae quisquam. Ex illum quam beatae id ipsum voluptatum fugit obcaecati.",
+      "link": "#"
+    }
+  ]
